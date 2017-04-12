@@ -10,5 +10,5 @@ Rails.application.routes.draw do
       post :confirm
     end
   end
-  root 'blogs#index'
+  root 'top#index'
 end
