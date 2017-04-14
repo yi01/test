@@ -45,3 +45,4 @@ end
 
 gem 'pry-rails'
 gem 'twitter-bootstrap-rails'
+gem 'jquery-turbolinks'
